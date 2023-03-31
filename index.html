@@ -7,7 +7,6 @@
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 <body>
     <style type="text/css">
@@ -49,6 +48,10 @@
                 whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
             },
             topMargin: 90, // default: 0
+            latex: {
+                inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
+                displayMath  : [['$$', '$$']],               // default
+            }
         }
     </script>
         <script type="module">
@@ -57,20 +60,6 @@
         window.mermaid = mermaid;
     </script>
     <script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-    <script>
-        const gitalk = new Gitalk({
-            clientID: '92be5782db6bae5cee33',
-            clientSecret: 'dc131e9d910b8b41f460c0763baff333501c952b',
-            repo: 'docs',
-            owner: 'DKU-MP-Zhang-Group',
-            admin: ['DKU-MP-Zhang-Group'],
-            // facebook-like distraction free mode
-            distractionFreeMode: false,
-            id: decodeURI(window.location.pathname),
-        })
-    </script>
 
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -84,6 +73,8 @@
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
-
-</body>
+    <!-- LaTeX display engine -->
+    <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <!--  docsify-latex plugin -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 </html>
