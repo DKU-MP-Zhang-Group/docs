@@ -24,7 +24,7 @@
             name: 'Zhang Group',
             repo: 'https://github.com/DKU-MP-Zhang-Group',
             search: {
-                paths: 'auto',
+                paths: '/',
                 placeholder: 'search',
                 noData: 'No Result',
                 depth: 6,  
@@ -48,6 +48,7 @@
                 formatUpdated: "{YYYY}/{MM}/{DD} {HH}:{mm}",
                 whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
             },
+            topMargin: 90, // default: 0
         }
     </script>
         <script type="module">
@@ -56,16 +57,18 @@
         window.mermaid = mermaid;
     </script>
     <script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
-
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
     <script>
         const gitalk = new Gitalk({
-            clientID: 'Github Application Client ID',
-            clientSecret: 'Github Application Client Secret',
-            repo: 'Github repo',
-            owner: 'Github repo owner',
-            admin: ['Github repo collaborators, only these guys can initialize github issues'],
+            clientID: '92be5782db6bae5cee33',
+            clientSecret: 'dc131e9d910b8b41f460c0763baff333501c952b',
+            repo: 'docs',
+            owner: 'DKU-MP-Zhang-Group',
+            admin: ['DKU-MP-Zhang-Group'],
             // facebook-like distraction free mode
-            distractionFreeMode: false
+            distractionFreeMode: false,
+            id: decodeURI(window.location.pathname),
         })
     </script>
 
@@ -81,7 +84,6 @@
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+
 </body>
 </html>
