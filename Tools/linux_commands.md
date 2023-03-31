@@ -1,4 +1,5 @@
-# file systems
+# Basic Linux commands
+## file systems
 ### cd
 ### ls
 ### pwd
@@ -7,14 +8,14 @@
 ### rm
 #### -r
 #### -f
-# system operation
+## system operation
 ### sudo
 ### su
 ### apt
 ### ifconfig
 ### top
 ### htop
-# remote
+## remote
 ### ssh
 ### scp
-# vim
+## vim
