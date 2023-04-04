@@ -11,10 +11,12 @@
     ForwardX11Trusted yes
     ForwardAgent yes
     ```
-    It will looks like:
+    It will looks like:  
     ![](./diaplay_img/ssh.png)
+
 ## vscode extensions
 1. install "Remote X11 (SSH)" & "Remote X11", usually you do not need sprcific settings
+
 ## Server settings
 1. `sudo vim /etc/ssh/sshd_config`, uncomment followings:
    ```
@@ -25,7 +27,8 @@
 2. `sudo systemctl restart sshd.service`
 3. `vim ~/.bashrc`, add following at the end of file: `export DISPLAY=localhost:10.0`
 4. `source ~/.bashrc`
-5. Test: Terminal command: `Xclock`. A clock should appear on your local desktop. Install the required packages if needed.
+5. Test: Terminal command: `Xclock`. A clock should appear on your local desktop. Install the required packages if needed.  
+
 ## Python settings
 1. if: `UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.`:
    - `sudo apt install python3-tk`

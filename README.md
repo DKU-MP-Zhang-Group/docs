@@ -13,4 +13,4 @@ We are interested in:
 
 The Github page for this doc is: https://dku-mp-zhang-group.github.io/docs/
 
-If you are under DUKE or DKU net work, you can slso try this beta version: [10.200.30.173:3000](http://10.200.30.173:3000)
+If you are under DUKE or DKU net work, you can also try this beta version: [10.200.30.173:3000](http://10.200.30.173:3000)

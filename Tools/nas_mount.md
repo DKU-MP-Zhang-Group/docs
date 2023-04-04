@@ -27,4 +27,4 @@
 
 # Appendix
 1. unmount: `sudo umount -l /mnt/nas_77`
-2. auto mount after start up :add `10.200.14.77:/lz97-leizhang /mnt/nas_77/ nfs defaults,rw 0 0` at the end of `/stc/fstab`
+2. auto mount after start up :add `10.200.14.77:/lz97-leizhang /mnt/nas_77/ nfs defaults,rw 0 0` at the end of `/stc/fstab`(This should be ok, but never tested. Welcome test.)
