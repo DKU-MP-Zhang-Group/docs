@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=jhtbhSpV5YA&t=7s
 if you want to have a practice:  
 https://github.com/DKUVEX/git_practice  
 (I have to say it is not so easy for a beginner)
+
+## Use github CLI
+[Github CLI](https://docs.github.com/zh/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
