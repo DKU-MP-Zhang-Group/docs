@@ -2,6 +2,7 @@
 
 ## Attention!
 1. **This is a high risk behavior!** Because the file encode format is usually different between Linuc & Windows. If you successfully mounted the NAS to your windows system, please make sure **only to read and download** the file on NAS and **do not** do any operation to edit the file! If you want to upload the file, try [scp](./Tools/linux_commands.md?id=scp).
+2. Beacuse of the default encode format of Linux, please only use english to create the file name and folder name.
 
 ## Prepare
 1. A computer device under DKU or DUKE net work
