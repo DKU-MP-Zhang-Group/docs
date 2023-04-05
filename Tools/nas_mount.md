@@ -1,7 +1,10 @@
 # How to mount the NAS
 
+## Attention!
+1. Beacuse of the default encode format of Linux, please only use english to create the file name and folder name.
+
 ## Preparation
-1. A computer device (Linux better)
+1. A computer device under DKU or DUKE net work(Linux better)
 2. **Add you ip to the firewall** (ask IT or [Tianyi](mailto:tianyi.zhang2@duke.edu))
 3. Knowledge about basic linux commands
 4. install nfs: 

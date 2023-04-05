@@ -2,8 +2,8 @@
 ## Install 'Xming' in windows
 1. From [here](https://sourceforge.net/projects/xming/) down load Xming & install it.
 2. Run xLunch at the start menu
-3. Most of the settings should be default. Make sure the display number should be 0. as follow:
-    ![](./display_img/../diaplay_img/xlaunch.png)
+3. Most of the settings should be default. Make sure the display number should be 0. as follow:  
+    ![](./display_img/../diaplay_img/xlaunch.png)  
 4. open the "X0.hosts" at the install path of xming, add yor server ip at the end of that file.
 5. open your ssh config file(usually it should be ~/.ssh/config), add the following settings of your server:
     ```

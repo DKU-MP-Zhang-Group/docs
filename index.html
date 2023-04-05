@@ -9,11 +9,11 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-    <style type="text/css">
+    <!-- <style type="text/css">
     .content {
     overflow: auto;
     }
-    </style>
+    </style> -->
     <nav>
         <a href="https://github.com/DKU-MP-Zhang-Group">Duke Kunshan University, Medical Physics, Zhang Group</a>
     </nav>
@@ -34,8 +34,9 @@
                 color:'rgb(90,90,90)',
                 language:'english'
             },
-            disqus: 'shortname',
+            // disqus: 'shortname',
             loadSidebar: true,
+            autoHeader: true,
             maxLevel: 6,
             subMaxLevel: 6,
             mermaidConfig: {
@@ -43,7 +44,7 @@
             },
             mergeNavbar: true,
             timeUpdater: {
-                text: "<div align='left' width='200px' style='color:gray;font-size:16px'>Posted @ {docsify-updated}</div>",
+                text: "<div align='left' width='200px' style='color:gray;font-size:16px'>Last posted @ {docsify-updated}</div>",
                 formatUpdated: "{YYYY}/{MM}/{DD} {HH}:{mm}",
                 whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
             },
@@ -72,10 +73,11 @@
     <script type="text/javascript">
         document.write("<scr"+"ipt src=\"//unpkg.com/docsify-count/dist/countable.js\"></sc"+"ript>")
     </script>
+    <!-- make the js file load fater -->
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-java.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script> -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
     <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
     <!-- LaTeX display engine -->
     <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
