@@ -1,7 +1,8 @@
 # How to mount the NAS
 
 ## Attention!
-1. Beacuse of the default encode format of Linux, please only use english to create the file name and folder name.
+1. Beacuse of the default encode format of Linux, please only use **english** to create the file name and folder name.
+2. When you want to use the data on NAS, make sure to copy the data to your **local workspace**. Do not directly use the data!(eventhough you just want to read the data!)
 
 ## Preparation
 1. A computer device under DKU or DUKE net work(Linux better)
@@ -13,7 +14,7 @@
 
 # Steps
 1. `cd /mnt` 
-2. `mkdir nas_77`
+2. `sudo mkdir nas_77`
 3. `sudo mount -t nfs -o rw  10.200.14.77:/lz97-leizhang /mnt/nas_77/`
 4. `cd /mnt/nas_77`
    - if `Permission denied`: `sudo chmod -R 777 nas_77/`
