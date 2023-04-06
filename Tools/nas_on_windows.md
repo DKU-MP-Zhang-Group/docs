@@ -12,7 +12,8 @@
 
 ## How to mount
 
-**Note: Do not edit the regedit unless you know what you are doing!!!**
+**Note: Do not edit the regedit unless you know what you are doing!!!**  
+If you do not know what is regedit, just finish the above steps in following tutorial:  
 [Seems useful](https://graspingtech.com/mount-nfs-share-windows-10/)  
 
 ## Unmount
