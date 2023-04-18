@@ -1,5 +1,5 @@
 # How to remote to PC in image lab
-
+Note: You need to do this under DKU/DUKE network
 ## For Lab Computer
 
 1. Upgrade Windows to Pro Version
