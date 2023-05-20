@@ -1,8 +1,15 @@
 # How to mount the NAS
 
-## Attention!
-1. Beacuse of the default encode format of Linux, please only use **english** to create the file name and folder name.
-2. When you want to use the data on NAS, make sure to copy the data to your **local workspace**. Do not directly use the data!(eventhough you just want to read the data!)
+> [!WARNING]
+> 1. Beacuse of the default encode format of Linux, please 
+> only use **English** to create the file name and folder name.
+> 2. When you want to use the data on NAS, make sure to copy 
+> the data to your **local workspace**. Do not directly use the 
+> data!(eventhough you just want to read the data!)
+
+> [!TIP]
+> 1. If you feel these seetings are difficult to use, see [Nextcloud](./nextcloud.md).
+> 2. If you want use NAS on windows, see [Mount in Windows](./nas_on_windows.md.md)
 
 ## Preparation
 1. A computer device under DKU or DUKE net work(Linux better)

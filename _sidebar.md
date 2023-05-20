@@ -9,8 +9,8 @@
   * [Basic Linux commands you need know](./Tools/linux_commands.md)
   * [Let your image display on local desktop using Xming](./Tools/display_img_on_desktop.md)
   * [Mount NAS on windows](./Tools/nas_on_windows.md)
-  <!-- * [win_nas](./cheatsheet/win_nas.md) -->
   * [Link to lab PC remotely](./Tools/remote_to_labpc.md)
+  * [Use NAS by using Nextcloud](./Tools/nextcloud.md)
 * [Basics](./basics/basics.md)
   * [Languages](./basics/languages/README.md)
     * [Python](./basics/languages/python/python.md)
