@@ -54,6 +54,7 @@ For others, such as Platinum series, usually it also needs around 20,000 ~ 70,00
 ## EPYC(AMD)
 The EPYC 9004 series is also the latest ultimate version, and it usually needs 40,000 RMB ~70,000 RMB each.  
 
+## Compare
 Compared with XEON and EPYC, it is true that EPYC is much more cheaper and has better specifications on paper.  
 But for software optimisation, XEON is better than EPYC, and it is wildly accepted by most of scientific packages.  
 So I think for most of the situation, we need to evaluate the software, package and libraries we are using to test if we can choose the EPYC platform, since if we can use EPYC, we will spend less money to get better performance.
