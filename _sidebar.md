@@ -28,3 +28,5 @@
       * [Function](./basics/languages/matlab/3_functions.md)
       * [Draw graph](./basics/languages/matlab/4_draw_graphs.md)
       * [Loop and condition](./basics/languages/matlab/5_loop_and_condition.md)
+* build server from zero
+  * [0.Devices](./build%20server%20from%20zero/0_devices%20we%20can%20use.md)
