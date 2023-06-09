@@ -41,6 +41,9 @@ But I think even 4090 is enough for current models we are learning.
 
 ## Ref: 
  - https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/#more-6
+ - [H100](https://www.nvidia.cn/data-center/dgx-h100/)
+ - [L40](https://www.nvidia.cn/data-center/l40/)  
+Hint: some of the webpage from nvidia may not able to open when you have China ip, try to use abroad ip or read other materials on Internet.
 
 # CPU
 
@@ -58,3 +61,10 @@ The EPYC 9004 series is also the latest ultimate version, and it usually needs 4
 Compared with XEON and EPYC, it is true that EPYC is much more cheaper and has better specifications on paper.  
 But for software optimisation, XEON is better than EPYC, and it is wildly accepted by most of scientific packages.  
 So I think for most of the situation, we need to evaluate the software, package and libraries we are using to test if we can choose the EPYC platform, since if we can use EPYC, we will spend less money to get better performance.
+
+## Ref:
+1. [Intel® Xeon® CPU Max Series](https://www.intel.sg/content/www/xa/en/products/details/processors/xeon/max-series/products.html?countrylabel=Asia+Pacific)
+2. [Intel® Xeon® Platinum Processor](https://www.intel.sg/content/www/xa/en/products/details/processors/xeon/scalable/platinum/products.html?countrylabel=Asia+Pacific)
+3. [Intel® Xeon® Scalable Processors Numbers and Suffixes](https://www.intel.sg/content/www/xa/en/support/articles/000059657/processors/intel-xeon-processors.html?countrylabel=Asia+Pacific)
+4. [AMD EPYC Introduction](https://www.amd.com/en/processors/epyc-9004-series)
+5. [AMD EPYC datasheet](https://www.amd.com/system/files/documents/epyc-9004-series-processors-data-sheet.pdf)
