@@ -34,6 +34,7 @@ But the main demerits except calculation ability are as follow(4090 is designed 
  - the external communication interface bandwidth is also lower, which means lower data exchange speed and lower speed with the same calculation unit.
  - lower memory, which means the size of net is restricted.
  - no ECC, which means when running the program for a long time(a few days), the stability will loose.
+ - Higher power necessary. A100 usually needs 300w, while 4090 needs 450w, so at same power supply, we can use less GPU with 4090.
 
 And the 4090Ti(with higher performance) may be published in June.
 

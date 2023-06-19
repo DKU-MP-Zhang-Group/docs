@@ -29,5 +29,6 @@
       * [Draw graph](./basics/languages/matlab/4_draw_graphs.md)
       * [Loop and condition](./basics/languages/matlab/5_loop_and_condition.md)
 * build server from zero
-  * [0.Devices](./build%20server%20from%20zero/0_devices%20we%20can%20use.md)
+  * [0.0.0.Devices](./build%20server%20from%20zero/0_devices%20we%20can%20use.md)
   * [0.1.0.Quotations](./build%20server%20from%20zero/0.1.0_devices%20cost.md)
+  * [1.0.0.Demand](./build%20server%20from%20zero/1_find%20out%20what%20we%20want.md)
