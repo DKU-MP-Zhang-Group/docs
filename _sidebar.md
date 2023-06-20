@@ -32,3 +32,4 @@
   * [0.0.0.Devices](./build%20server%20from%20zero/0_devices%20we%20can%20use.md)
   * [0.1.0.Quotations](./build%20server%20from%20zero/0.1.0_devices%20cost.md)
   * [1.0.0.Demand](./build%20server%20from%20zero/1_find%20out%20what%20we%20want.md)
+  * [2.0.0.Final budget plan 1.0.0](./build%20server%20from%20zero/2.0.0.budget_plan1.0.0.md)
