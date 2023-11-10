@@ -5,12 +5,13 @@
 * [Tools](tools.md)
   * [Git](./Tools/git.md)
   * [Apply the VCM](./Tools/apply_vcm.md)
-  * [Mount the NAS](./Tools/nas_mount.md)
   * [Basic Linux commands you need know](./Tools/linux_commands.md)
   * [Let your image display on local desktop using Xming](./Tools/display_img_on_desktop.md)
+  * [Mount the NAS](./Tools/nas_mount.md)
   * [Mount NAS on windows](./Tools/nas_on_windows.md)
   * [Link to lab PC remotely](./Tools/remote_to_labpc.md)
   * [Use NAS by using Nextcloud](./Tools/nextcloud.md)
+  * 
 * [Basics](./basics/basics.md)
   * [Languages](./basics/languages/README.md)
     * [Python](./basics/languages/python/python.md)
@@ -35,3 +36,10 @@
   * [2.0.0.Final budget plan 1.0.0](./build%20server%20from%20zero/2.0.0.budget_plan1.0.0.md)
 * Radiomics
   * [radiomics in python](./radiomics/pyradiomics.md)
+* Server maintenance
+  * [Environment variable introduction](./server%20maintance/env_voriable.md)
+  * [Administer cmds](./server%20maintance/frequently_used_cmds.md)
+  * [shell scripts](./server%20maintance/shell%20scripts.md)
+* Server usage
+  * [First time use](./server%20users/first_time_use.md)
+    * [Git config](./server%20users/firsttime/git_config.md)
