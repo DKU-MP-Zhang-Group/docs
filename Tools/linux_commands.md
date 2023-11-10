@@ -1,5 +1,5 @@
 # Basic Linux commands
-## file systems
+## For how to use file systems: 
 ### cd
 ### ls
 ### pwd
@@ -8,14 +8,15 @@
 ### rm
 #### -r
 #### -f
-## system operation
+## for system operation: 
 ### sudo
 ### su
 ### apt
 ### ifconfig
 ### top
 ### htop
-## remote
+## for remote settings:
 ### ssh
 ### scp
-## vim
+## other import commands:
+### vim

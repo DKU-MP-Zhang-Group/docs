@@ -43,3 +43,5 @@
 * Server usage
   * [First time use](./server%20users/first_time_use.md)
     * [Git config](./server%20users/firsttime/git_config.md)
+    * [ssh connection examples](./server%20users/firsttime/ssh_example.md)
+  * [connect to server](./server%20users/connection.md)
