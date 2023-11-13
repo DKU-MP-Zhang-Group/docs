@@ -8,4 +8,4 @@ We provide an example on [how to connect to server via ssh](./server%20users/fir
 
 Before you use server, we strongly recommend you to know the [basic commands on Linux](./Tools/linux_commands.md).  
 
-And if you still fill confuse about Python & conda, here is a [tutorial](./basics/languages/python/python.md).
+And if you still feel confused about Python & conda, here is a [tutorial](./basics/languages/python/python.md).

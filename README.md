@@ -4,8 +4,8 @@
 
 **This is the team knowledge base for Duke Kunshan University, Medical Physics, Prof. Lei Zhang's Group.**
 
-For academic cooperation, please contact: lei.zhang@dukekunshan.edu.cn  
-For any suggestion about this page: tianyi.zhang2@duke.edu  
+For academic cooperation, please contact: [Prof. Lei Zhang](mailto:lei.zhang@dukekunshan.edu.cn)  
+For any suggestion about this page: [Tianyi](mailto:tianyi.zhang2@duke.edu)  
 
 Our team member:  
 

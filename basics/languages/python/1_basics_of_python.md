@@ -8,17 +8,26 @@ Wechat：13863876199
  - use python as soon as possible
  - not for programmers, but for scientific caculations
  - reduce complex properties
+
 ## What is python?(How python different from C)
  - No compile
  - Not the later the better(3.7 or 3.8 is enough)
+
+
 ## tips
  - maybe use anaconda instead of directly install python?
  - when installing, do not choose a install path with chinese or other special characters
+
+
 ## What is IDE:
  - pycharm
  - visual studio code
  - jupyter notebook
  - notebook
  - ...
-## (How to use anaconda)
+
+
+## How to use conda
+You can goto [conda GitHub repo](https://github.com/conda/conda) for more information. 
+
 ## how to run a python program
