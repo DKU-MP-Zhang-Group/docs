@@ -1,4 +1,7 @@
 ## Introduction for beginners
+> [!TIP]
+> If you do not have an account, please ask [Tianyi](mailto:tianyi.zhang2@duke.edu) for one.
+
 If you are the first time to use remote server, here are the basic knowledge you need to learn.  
 1. what is Linux/Ubuntu, what is the relationship between them.
 2. Remote server is a computer, not a software or an application.  
