@@ -1,0 +1,11 @@
+## 10.200.30.173
+    - user:tz137
+    - password:1546470118rogue
+## maria
+no password
+###  nextcloud_db
+    - user:tz137
+    - password:123456
+## nextcloud
+ - user:tz137
+ - password:123456

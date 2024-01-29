@@ -1,4 +1,9 @@
 # Using ssh + vscode + Xming to display your image
+## 2024.01.29 update  
+"Remote X11 (SSH)" & "Remote X11" are no longer maintainced, please follow:  
+https://github.com/microsoft/vscode-remote-release/issues/4600
+
+\---------------------------------------------------------------------------------------------------------------------
 ## Install 'Xming' in windows
 1. From [here](https://sourceforge.net/projects/xming/) down load Xming & install it.
 2. Run xLunch at the start menu
