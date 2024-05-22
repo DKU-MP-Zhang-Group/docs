@@ -12,3 +12,6 @@ We provide an example on [how to connect to server via ssh](./server%20users/fir
 Before you use server, we strongly recommend you to know the [basic commands on Linux](./Tools/linux_commands.md).  
 
 And if you still feel confused about Python & conda, here is a [tutorial](./basics/languages/python/python.md).
+
+> [!TIP]
+> Please Check [Network error solutions](./server%20users/bug_fix/proxy_related.md), this is a confusing feature because of DKU network

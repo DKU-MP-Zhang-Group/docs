@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [Edit this page](edit.md)
-* [Tools](tools.md)
+* [Tools & Tips](tools.md)
   * [Git](./Tools/git.md)
   * [Apply the VCM](./Tools/apply_vcm.md)
   * [Basic Linux commands you need know](./Tools/linux_commands.md)
@@ -11,7 +11,7 @@
   * [Mount NAS on windows](./Tools/nas_on_windows.md)
   * [Link to lab PC remotely](./Tools/remote_to_labpc.md)
   * [Use NAS by using Nextcloud](./Tools/nextcloud.md)
-  * 
+  * [Anyconnect(VPN) cannot establish connection](./Tools/anyconnect_broken.md)
 * [Basics](./basics/basics.md)
   * [Languages](./basics/languages/README.md)
     * [Python](./basics/languages/python/python.md)
@@ -39,10 +39,14 @@
 * Server maintenance
   * [Environment variable introduction](./server%20maintance/env_voriable.md)
   * [Administer cmds](./server%20maintance/frequently_used_cmds.md)
-  * [shell scripts](./server%20maintance/shell%20scripts.md)
+  * [Shell scripts](./server%20maintance/shell%20scripts.md)
+  * [Nvidia installation](./server%20maintance/nvidia_install.md)
+  * [Mount Disks](./server%20maintance/mnt_disk.md)
 * Server usage
   * [First time use](./server%20users/first_time_use.md)
     * [Git config](./server%20users/firsttime/git_config.md)
     * [ssh connection examples](./server%20users/firsttime/ssh_example.md)
   * [connect to server](./server%20users/connection.md)
-  * [Disk usage principals](./server%20users/datastorge.md) 
+  * [Disk usage principals](./server%20users/datastorge.md)
+  * [Bug fix](./server%20users/bug_fix.md)
+    * [Network(Proxy)](./server%20users/bug_fix/proxy_related.md)
