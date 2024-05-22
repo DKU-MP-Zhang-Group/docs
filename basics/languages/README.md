@@ -6,3 +6,5 @@ The videos are uploaded to [Bilibili](https://space.bilibili.com/39032768/channe
 Thanks to OSCS! They provide a security test for this repo.
 [![Security Status](https://www.murphysec.com/platform3/v3/badge/1615640772058054656.svg?t=1)](https://www.murphysec.com/accept?code=e34469d3fa12c02550040a8de3943e41&type=1&from=2&t=2)
 
+origin scripts at: [languages scripts](https://github.com/rogue-shadowdancer/mathecon_317)
+you may need the pdf version for better performance there
