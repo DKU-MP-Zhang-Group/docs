@@ -42,6 +42,7 @@
   * [Shell scripts](./server%20maintance/shell%20scripts.md)
   * [Nvidia installation](./server%20maintance/nvidia_install.md)
   * [Mount Disks](./server%20maintance/mnt_disk.md)
+  * [Install Matlab](./server%20maintance/matlab_install.md)
 * Server usage
   * [First time use](./server%20users/first_time_use.md)
     * [Git config](./server%20users/firsttime/git_config.md)
