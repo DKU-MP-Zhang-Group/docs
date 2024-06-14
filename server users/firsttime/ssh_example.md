@@ -53,6 +53,6 @@ click "Linux"
 9. wait a while  
 ![](imgs/2023-11-11-02-49-00.png)  
 for the first time usage, you should wait a while till the downloading in server finished(aka. the message in red box disappear).  
-10. use it
+10. use it  
 ![](imgs/2023-11-11-02-52-33.png)  
 you can click the "terminal" to open the terminal, and choose the bottom at the center to select a file or a folder. then press "confirm" to decide.  

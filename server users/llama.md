@@ -1,5 +1,5 @@
 # llama3
-currently llama3 ins installed on server  
+currently llama3 is installed on server  
 on server 228 and 230
 
 8B version is installed in 230, you can try this:
