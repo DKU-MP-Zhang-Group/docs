@@ -26,3 +26,7 @@ Video tutorial at: [Ubuntu系统基本使用介绍](https://www.bilibili.com/vid
 ### scp
 ## other import commands:
 ### vim
+
+## For long time program running:
+### tmux
+[tmux wiki](https://github.com/tmux/tmux/wiki)

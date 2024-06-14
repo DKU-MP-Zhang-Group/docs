@@ -14,4 +14,7 @@ Before you use server, we strongly recommend you to know the [basic commands on 
 And if you still feel confused about Python & conda, here is a [tutorial](./basics/languages/python/python.md).
 
 > [!TIP]
-> Please Check [Network error solutions](./server%20users/bug_fix/proxy_related.md), this is a confusing feature because of DKU network
+> Below blogs are **STRONGLY RECOMMANDED**  
+> Please Check [Network error solutions](./server%20users/bug_fix/proxy_related.md), this is a confusing feature because of DKU network  
+> [Data Storage](./server%20users/datastorge.md) will be useful if you find not enough space under '/home'  
+> [Tmux](./Tools/linux_commands?id=tmux) if you need run a program for a long time  
