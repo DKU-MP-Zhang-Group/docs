@@ -18,3 +18,7 @@ And if you still feel confused about Python & conda, here is a [tutorial](./basi
 > Please Check [Network error solutions](./server%20users/bug_fix/proxy_related.md), this is a confusing feature because of DKU network  
 > [Data Storage](./server%20users/datastorge.md) will be useful if you find not enough space under '/home'  
 > [Tmux](./Tools/linux_commands?id=tmux) if you need run a program for a long time  
+
+## Something you need know
+1. Usually you donot have **sudo** account, if you need sudo please ask [Tianyi](mailto:tianyi.zhang2@duke.edu) for help, and provide document at the same time.
+2. Make sure to **obey the opensource License** if you are using public resources such as tools, software, library, and codes.

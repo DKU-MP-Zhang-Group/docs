@@ -5,6 +5,9 @@ Here is the [basic introduction](./Tools/apply_vcm?id=ssh), for more information
 You can use ssh via bash, powershell, putty, xshell, vscode.  
 I prefer vscode. Here is the [official document](https://code.visualstudio.com/docs/remote/ssh).  
 Here is the example on [how to connect to server via ssh](./server%20users/firsttime/ssh_example.md)
+#### display via x11
+see [x11 introduction](./Tools/display_img_on_desktop)
 ### remote desktop
 You can also use remote desktop, similar to [this](./Tools/remote_to_labpc?id=for-your-own-computer).  
 Here is also [another introduction](https://www.itechtics.com/mstsc-cmd/).
+
